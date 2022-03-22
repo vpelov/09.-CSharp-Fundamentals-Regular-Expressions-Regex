@@ -48,11 +48,7 @@ namespace P03.PostOffice
                                 {
                                     Console.WriteLine(currentWord);
                                     checkPrint.Add(currentWord);
-                                }
-                                else
-                                {
-                                    continue;
-                                }
+                                }                                
                             }
                         }
                     }
